@@ -25,4 +25,5 @@ Serial Data (SDA): It is a serial data line which is used for exchanging data be
 I2C bus is an open drain configuration which means they can pull the corresponding signal line low but cannot drive it high. Hence the line will go in to unknown state. In order to avoid this, pull up resistors need to be connected on SCL and SDA pins.
 ![](https://www.electronicwings.com/public/images/user_images/images/Arduino/Arduino_basics/Arduino_I2C/I2C_Generalized.PNG)
 ![](https://www.electronicwings.com/public/images/user_images/images/Arduino/Arduino_basics/Arduino_I2C/Arduino_i2c_pins.png)
+
 REFRENCE:-https://www.electronicwings.com/arduino/arduino-i2c
