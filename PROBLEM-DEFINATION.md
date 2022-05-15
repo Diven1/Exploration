@@ -21,4 +21,15 @@ master and slave bot
 17|Display+camera  or Storage+Camera?|Display+camera|function|
 18|Maximum speed of the car?|	5 - 10 km/hr|constraint|
 19|Type of motor used?|	DC Motor|objective|
-20|size requirement|1ft x 1ft x 1ft|constraint|		
+20|size requirement|1ft x 1ft x 1ft|constraint|	
+
+
+1.2 Basic survey and requirements
+|Sl.no|Observation from survey|Requirements|
+|-----|-----------------------|------------|
+1.|Weight of the car||
+2.|No of operation||
+3.|cost|Car should be built with minimum budget|
+4.|||
+5.|||	
+
