@@ -1,3 +1,5 @@
+ 
+***
 ABSTRACT:This paper describes the robots which are configured in master slave technology. Industries need many
 workers for doing the same work at the same time and few supervisors are needed to keep a watch on them.Hence
 manpower is wasted. Therefore, we have come out with a solution i.e. “Master-Slave Configuration Based Bluetooth
