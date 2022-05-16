@@ -9,3 +9,5 @@ Better yet, these components can be hot-swapped. 12C specifications make it poss
 
 ![image](https://user-images.githubusercontent.com/105147415/168518351-b2f76411-4544-4c49-9b23-f912a805ec35.png)
 ![](https://www.denso-wave.com/imageupd/21002/24748_contents4.jpg)
+
+Reference: https://medium.com/@pkl9231/arduino-master-slave-control-using-i2c-protocol-56504e348538
