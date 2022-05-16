@@ -1,4 +1,7 @@
+# # #MASTER AND SLAVE BOT
+
 # # # WORKING: 
+****
 Instead of one Arduino with a dozen or so sensors and components attached to it, we can have five Arduinos each supporting one or two sensors. The sensors data is then sent to the master Arduino unit to do integration calculation and I/O.
 
 By pairing key components with a microcontroller and programming it to send data via 12C to a central microcontroller.
