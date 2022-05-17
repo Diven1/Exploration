@@ -20,7 +20,7 @@ master and slave bot
 17|Display+camera  or Storage+Camera?|Display+camera|function|
 18|Maximum speed of the car?|	5 - 10 km/hr|constraint|
 19|Type of motor used?|	DC Motor|objective|
-20|size requirement|1ft x 1ft x 1ft|constraint|	
+20|size requirement| 10cm x 10cmx 10cm|constraint|	
 
 
 ## 1.2 Basic survey and requirements
@@ -44,7 +44,27 @@ step 1: Prepare a list of objectives
 |04|camera should be of good quality|
 
 ### Problem definition version 1.1:-
-Design a 
+Design a  user friendly wireless hand controlled master & slave spy car built with good quality plastic and camera
+
+## 1.4 Identify Constraints
+step 1:prepare list of design constraints
+        Table 4:Identifed Constraints
+|SL.NO|Constraints|
+|-----|-----------|
+|01|Cost of the car should be within 5000|
+|02|weight of the car should in between 600 to 800 grams|
+|03|Dimensions 10cmx10cmx10cm|
+|04|Battery backup of 3hours|
+|05|ground clearance 3-5cm|
+
+### Problem Definition version 1.2:-
+Design a  user friendly wireless hand controlled master & slave spy car built with good quality plastic and camera, of dimensions 10cmx10cmx10cm
+
+		
+			
+			
+			
+			
 
 
 
