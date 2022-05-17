@@ -71,6 +71,7 @@ step 1:Prepare a list of design functions
 |02|control car using hand gestures|
 |03|spy camera with a display|
 
+### Problem Definition version 1.3:-
 Design a  user friendly wireless hand controlled master & slave spy car built with good quality plastic and camera, of dimensions 10cmx10cmx10cm
 and weight of the car should be within 600-800 grams with 3 hours of battery backup and ground clearance of 3-5cm within a budget of 5000 with multifunction such as spying by hand gestures by using camera with a display		
 			
