@@ -8,19 +8,15 @@ master and slave bot
 1|What's the budget?|6000-8000 rupees|constraint|
 3|Type of product?|Hand controlled master & slave car|objective|
 4|Wired or Wireless ?|	Wireless|objective|
-5|Motive of the car?|	Spy car and Toy car|function|
-6|Car material|	Plastic|objective|
-7|Weight of the car?|600-800 grams|constraint|
-9|Controlled by remote of hand gestures?|Hand gestures|function|
-12|Quality of camera ?|	Good quality|objective|
-13|Noise or noiseless?|	Noiseless|objective|
-14|Battery backup?|	3 hours|constraint|
-15|Ground clearance?|	3 -5 cm|constraint|
-16|Diameter of wheel?|	4 - 6 cm|constraint|
-17|Display+camera  or Storage+Camera?|Display+camera|function|
-18|Maximum speed of the car?|	5 - 10 km/hr|constraint|
-19|Type of motor used?|	DC Motor|objective|
-20|size requirement| 10cm x 10cmx 10cm|constraint|	
+5|Motive of the car?|	Spy car and Toy car|Objective|
+6|Weight of the car?|600-800 grams|constraint|
+7|Controlled by remote of hand gestures?|Hand gestures|function|
+8|Quality of camera ?|	Good quality|objective|
+9|Ground clearance?|	3 -5 cm|constraint|
+10|Diameter of wheel?|	4 - 6 cm|constraint|
+11|Display+camera  or Storage+Camera?|Display+camera|function|
+12|Maximum speed of the car?|	5 - 10 km/hr|constraint|
+13|size requirement| 10cm x 10cmx 10cm|constraint|	
 
 
 ## 1.2 Basic survey and requirements
