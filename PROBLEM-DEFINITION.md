@@ -11,12 +11,12 @@ master and slave bot
 5|Motive of the car?|	Spy car and Toy car|Objective|
 6|Weight of the car?|600-800 grams|constraint|
 7|Controlled by remote of hand gestures?|Hand gestures|function|
-8||video recording|function|
+8|Do you want the car to record video|yes|function|
 9|Ground clearance?|	3 -5 cm|constraint|
 10|Diameter of wheel?|	4 - 6 cm|constraint|
 11|Maximum speed of the car?|	5 - 10 km/hr|constraint|
 12|size requirement| 10cm x 10cmx 10cm|constraint|	
-
+13|
 
 ## 1.2 Basic survey and requirements
      Table 2:Observation from literature survey
@@ -64,7 +64,8 @@ step 1:Prepare a list of design functions
 |-----|---------|
 |01|video recording|
 |02|control car using hand gestures|
-|03||
+|03|audio recording|
+|04|tracking location
 
 ### Problem Definition version 1.3:-
 Design a  user friendly wireless hand controlled master & slave spy car built with good quality plastic and camera, of dimensions 10cmx10cmx10cm
