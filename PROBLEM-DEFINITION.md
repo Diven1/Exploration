@@ -11,12 +11,13 @@ master and slave bot
 5|Motive of the car?|	Spy car and Toy car|Objective|
 6|Weight of the car?|600-800 grams|constraint|
 7|Controlled by remote of hand gestures?|Hand gestures|function|
-8|Do you want the car to record video|yes|function|
+8|Do you want the car to record video?|yes|function|
 9|Ground clearance?|	3 -5 cm|constraint|
 10|Diameter of wheel?|	4 - 6 cm|constraint|
 11|Maximum speed of the car?|	5 - 10 km/hr|constraint|
 12|size requirement| 10cm x 10cmx 10cm|constraint|	
-13|
+13|Do you want the car to record audio?|yes|function|
+14|||
 
 ## 1.2 Basic survey and requirements
      Table 2:Observation from literature survey
