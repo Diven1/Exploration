@@ -54,7 +54,7 @@ step 1:prepare list of design constraints
 |03|Dimensions 10cmx10cmx10cm|
 |04|Battery backup of 3hours|
 |05|ground clearance 3-5cm|
-|06|max speed of 8km/hr|
+
 
 ### Problem Definition version 1.2:-
 Design a  user friendly wireless hand controlled master & slave spy car built with good quality plastic and camera, of dimensions 10cmx10cmx10cm
