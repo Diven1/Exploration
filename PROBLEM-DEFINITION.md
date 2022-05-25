@@ -13,12 +13,12 @@ master and slave bot
 8|Do you want the car to record video?|yes|function|
 9|Ground clearance?|	3 -5 cm|constraint|
 10|Diameter of wheel?|	4 - 6 cm|constraint|
-12|size requirement|Less than 1 cubic feet|constraint|	
-14|How to detect the location of car?|The car consists of inbuilt tracker|function|
-15|Should the car record surrounding audio|Yes it should record audio|function|
-16|whether it should be user friendly|yes it should be user friendly|objective|
-17|Battery backup|3 hours|constraint|
-18|what if the car come across a obstacle|object detection|function|
+11|size requirement|Less than 1 cubic feet|constraint|	
+12|How to detect the location of car?|The car consists of inbuilt tracker|function|
+13|Should the car record surrounding audio|Yes it should record audio|function|
+14|whether it should be user friendly|yes it should be user friendly|objective|
+15|Battery backup|3 hours|constraint|
+16|what if the car come across a obstacle|object detection|function|
 
 ## 1.2 Basic survey and requirements
      Table 2:Observation from literature survey
