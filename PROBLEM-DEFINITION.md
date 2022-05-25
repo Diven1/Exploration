@@ -14,7 +14,6 @@ master and slave bot
 9|Ground clearance?|	3 -5 cm|constraint|
 10|Diameter of wheel?|	4 - 6 cm|constraint|
 12|size requirement|Less than 1 cubic feet|constraint|	
-13|Do you want the car to record audio?|yes|function|
 14|How to detect the location of car?|The car consists of inbuilt tracker|function|
 15|Should the car record surrounding audio|Yes it should record audio|function|
 16|whether it should be user friendly|yes it should be user friendly|objective|
@@ -68,7 +67,8 @@ step 1:Prepare a list of design functions
 |01|video recording|
 |02|control car using hand gestures|
 |03|audio recording|
-|04|tracking location
+|04|tracking location|
+|05|object detection|
 
 ### Problem Definition version 1.3:-
 Design a  user friendly wireless hand controlled master & slave spy car built with good quality plastic and camera, of dimensions 10cmx10cmx10cm
