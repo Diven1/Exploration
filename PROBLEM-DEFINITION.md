@@ -36,7 +36,7 @@ step 1: Prepare a list of objectives
 |SL.no|Objectives|
 |-----|----------|
 |01|car should be hand controlled|
-|02|car should be made of good quality plastic|
+|02|car should be made of good quality material|
 |03|car should be be user friendly|
 |04|camera should be of good quality|
 
