@@ -1,5 +1,5 @@
  
-***
+## pratham shirol
 ABSTRACT:This paper describes the robots which are configured in master slave technology. Industries need many
 workers for doing the same work at the same time and few supervisors are needed to keep a watch on them.Hence
 manpower is wasted. Therefore, we have come out with a solution i.e. “Master-Slave Configuration Based Bluetooth
@@ -64,12 +64,86 @@ The execution of the master and all the slaves is at the same time, hence they a
 bots execute the commands at the same time as that of the master hence the slave and the master bots both are 
 synchronous. Due to this, the task can be done effectively and accurately as lag will not be introduced in the
 system.Use of Bluetooth also brings security to the whole system.
-
-
-
 REFERENCES
 [1] B. L. Thareja& A. K. Thareja, “Electrical Technology”, vol. 2
 [2] Wayne Tomasi, “Electronic Communication System”
 [3] https://arduino.cc
 [4] http://robokits.co.in/wirelesssolutions/ht12e-ht12d-encoder-and-decoder-ic-for-rf-modules
 [5] https://www.engineersgarage.com/electronic-components/rf-module-transmitter-receiver
+
+## Sameer Nadaf
+# MASTER AND SLAVE BOT
+## INTRODUCTION
+I2C (Inter-Integrated Circuit) is serial bus interface connection protocol. It is also called as TWI (two wire interface) since it uses only two wires for communication. Those two wires are SDA (serial data) and SCL (serial clock).
+
+I2C is an acknowledgment-based communication protocol i.e. transmitter checks for an acknowledgment from the receiver after transmitting data to know whether data is received by receiver successfully.
+
+I2Cworks in two modes namely,
+
+Master mode
+Slave mode
+SDA (serial data) wire is used for data exchange in between the master and slave device.
+
+SCL (serial clock) is used for the synchronous clock in between master and slave device.
+
+Master device initiates communication with a slave device. It requires a slave device’s address to initiate conversation. The slave device responds to a master device when it is addressed by a master device.
+
+The I2C device has 7-bit or 10-bit unique address. So, to access these devices, a master must address them by the 7-bit or 10-bit unique address.
+
+I2C is used in many applications like reading RTC (Real-time clock), accessing external EEPROM memory. It is also used in sensor modules like a gyro, magnetometer etc.
+
+I2C protocol uses 2 lines for communication:
+
+Serial Clock (SCL): It is a clock signal. Data will be sent to other devices on clock tick event. Only master device has control over this SCL line.
+Serial Data (SDA): It is a serial data line which is used for exchanging data between master and slave device
+I2C bus is an open drain configuration which means they can pull the corresponding signal line low but cannot drive it high. Hence the line will go in to unknown state. In order to avoid this, pull up resistors need to be connected on SCL and SDA pins.
+![](https://www.electronicwings.com/public/images/user_images/images/Arduino/Arduino_basics/Arduino_I2C/I2C_Generalized.PNG)
+![](https://www.electronicwings.com/public/images/user_images/images/Arduino/Arduino_basics/Arduino_I2C/Arduino_i2c_pins.png)
+
+REFRENCE:-https://www.electronicwings.com/arduino/arduino-i2c
+## Rishab
+# Master and Slave Bot
+## Master/Slave Arm
+This robot was originally designed for telerobotics: imagine a human aboard the International Space Station operating the Master Arm and being able to remotely control the Slave Arm as it repairs a satellite.
+
+Master/Slave Arm is used for psychophysics–the study of how the brain works in human motor control. A human will place an arm inside the Master Arm and reach for a moving object, and the Master Arm will apply some torque to interfere and see how the human corrects for this. This helps researchers create models on how humans use energy, speed and time in grasping and manipulation. Those lessons will be applied to the Slave Arm.
+
+[More Information](https://www.learnrobotics.org/blog/simple-smart-robotic-arm-using-arduino/)
+
+![Master Slave Robotic Arm](https://i.ytimg.com/vi/13A_ge634wg/maxresdefault.jpg)
+![.](https://i.ytimg.com/vi/z3-6A4PBgmA/sddefault.jpg)
+## shrinidhi
+# Engineering exploration 
+## Master and Slave bot
+### Introduction 
+Master/slave is a model of asymmetric communication or control where one device or process (the "master") controls one or more other devices or processes (the "slaves") and serves as their communication hub.
+
+For example
+
+![Master and Slave bot](https://www.researchgate.net/profile/Susumu-Tachi/publication/281505917/figure/fig15/AS:668307397025808@1536348308778/General-view-of-TELESAR-V-master-left-and-slave-robot-right.png)
+
+General view of TELESAR V master (left) and slave robot (right).
+
+[For more information ](https://www.researchgate.net/publication/281505917_Telexistence/download)
+## diven
+
+# # #MASTER AND SLAVE BOT
+
+# # # WORKING: 
+****
+Instead of one Arduino with a dozen or so sensors and components attached to it, we can have five Arduinos each supporting one or two sensors. The sensors data is then sent to the master Arduino unit to do integration calculation and I/O.
+
+By pairing key components with a microcontroller and programming it to send data via 12C to a central microcontroller.
+
+Each of the 12C networked component has enough processing power dedicated to it. When it's ready, it sends it's data to my central Arduino using only 2 wires, one for data and the other for timing.
+
+Better yet, these components can be hot-swapped. 12C specifications make it possible to plug and unplug 12C nodes into the bus while it's running.
+
+![image](https://user-images.githubusercontent.com/105147415/168518351-b2f76411-4544-4c49-9b23-f912a805ec35.png)
+![](https://www.denso-wave.com/imageupd/21002/24748_contents4.jpg)
+
+Reference: https://medium.com/@pkl9231/arduino-master-slave-control-using-i2c-protocol-56504e348538
+
+
+
+
